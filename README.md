@@ -9,15 +9,17 @@ Repository Structure
 
 This repository contains two top-level folders:
 
-participant-version/
-
 instructor-version/
 
-Both folders follow the same structure and contain the same core notebooks, helper files, and image assets. The separation exists for organizational and instructional purposes only.
+participant-version/
+
+
+The participant folder contains the entire project, including notebooks, helper files, and image assets. The instructor folder contains the instructor version of the core notebooks— these are effectively the answer key.
+
 
 Notebook Order
 
-Each folder contains four notebooks, numbered and intended to be completed sequentially:
+This project contains four notebooks, numbered and intended to be completed sequentially:
 
 Glossary.ipynb
 Reference material for terminology, variables, and concepts used throughout the project.
@@ -33,9 +35,10 @@ A case study focused on phytoplankton bloom dynamics in Barkley Sound.
 
 The notebooks are designed to be completed in order.
 
+
 Helper Files
 
-Each folder includes the following helper Python files, which are imported by the notebooks as needed:
+This project includes the following helper Python files, which are imported by the notebooks as needed:
 
 ONC_client.py
 
@@ -44,6 +47,7 @@ onc_plotting.py
 summer_helper.py
 
 These files are not intended to be run directly.
+
 
 Image Assets
 
@@ -62,6 +66,7 @@ Images are stored in dedicated directories alongside the notebooks.
 Each image directory includes an image_order.txt file that documents the intended image sequence.
 
 Depending on how the repository is downloaded, opened, or moved between environments, images may not automatically render in the notebooks. If this occurs, images may need to be re-inserted into the notebook image cells. The image_order.txt files are provided to make it easy to restore the correct image order.
+
 
 Environment Notes
 
