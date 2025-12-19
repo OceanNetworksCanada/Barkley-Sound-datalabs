@@ -12,15 +12,12 @@ The notebooks were developed for use in Deepnote and may require some adaptation
 
 Repository Structure
 
-This repository contains two top-level folders:
-
-complete-version/
+This repository contains the following top-level folders:
 
 participant-version/
 
 
-The participant folder contains the entire project, including notebooks, helper files, and image assets. The instructor folder contains the complete version of the core notebooks— these versions are effectively the answer key to the notebooks in the participant section.
-
+The participant folder contains the entire project, including notebooks (with uncomplete interactive sections), helper files, and image assets.
 
 Notebook Order
 
