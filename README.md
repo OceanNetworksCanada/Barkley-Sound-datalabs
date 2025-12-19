@@ -3,21 +3,18 @@ Overview
 
 This repository contains Jupyter notebooks and supporting files for the Barkley Sound Data Lab project. The materials are organized as a guided, notebook-based workflow focused on working with Ocean Networks Canada data from Barkley Sound.
 
-See the orignal notebooks linked below:
-
-https://deepnote.com/workspace/Ocean-Networks-Canadas-Workspace-d8a1a703-3320-4724-96bc-7195228468db/project/BMSC-2025-Participant-ade8ed14-1fe0-4dd8-a068-473cbde195a5/notebook/1-Glossary-5cd019a646c2409891b9175de9b87843?utm_source=share-modal&utm_medium=product-shared-content&utm_campaign=notebook&utm_content=ade8ed14-1fe0-4dd8-a068-473cbde195a5 
-
-
 The notebooks were developed for use in Deepnote and may require some adaptation to run in other IDEs or local Jupyter environments.
 
 Repository Structure
 
-This repository contains the following top-level folders:
+This repository contains the following top-level folder(s):
 
 participant-version/
 
 
-The participant folder contains the entire project, including notebooks (with uncomplete interactive sections), helper files, and image assets.
+The participant folder contains the entire project, including notebooks (with uncomplete interactive sections), helper files, and image assets. You can find the complete version of the notebooks here:
+
+https://deepnote.com/workspace/ocean_networks_canada-d8a1a703-3320-4724-96bc-7195228468db/project/BMSC-2025-Complete-925b81e8-0463-4b76-8568-a11fbcf77052/notebook/1-Glossary-ef7ccaae9a4040d6ac874d838867f259?utm_source=share-modal&utm_medium=product-shared-content&utm_campaign=notebook&utm_content=925b81e8-0463-4b76-8568-a11fbcf77052
 
 Notebook Order
 
