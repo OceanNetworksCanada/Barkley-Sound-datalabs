@@ -3,5 +3,7 @@ Order of images:
 'folger_passage_sensors.png'
 'folger_passage_bathymetry.jpg'
 'onc_token.png'
+'original_dataframe.png'
+'new_dataframe.png'
 'folger_camera_array_2010_2011.png'
 'oxygen_profile_plots.jpeg'
