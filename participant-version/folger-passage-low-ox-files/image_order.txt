@@ -1,4 +1,4 @@
-Order of images:
+Image order:
 'folger_passage_overview.png'
 'folger_passage_sensors.png'
 'folger_passage_bathymetry.jpg'
