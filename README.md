@@ -1,7 +1,12 @@
-Barkley Sound Data Labs
+Barkley Sound Data Lab
 Overview
 
-This repository contains Jupyter notebooks and supporting files for the Barkley Sound Data Labs project. The materials are organized as a guided, notebook-based workflow focused on working with Ocean Networks Canada data from Barkley Sound.
+This repository contains Jupyter notebooks and supporting files for the Barkley Sound Data Lab project. The materials are organized as a guided, notebook-based workflow focused on working with Ocean Networks Canada data from Barkley Sound.
+
+See the orignal notebooks linked below:
+
+https://deepnote.com/workspace/Ocean-Networks-Canadas-Workspace-d8a1a703-3320-4724-96bc-7195228468db/project/BMSC-2025-Participant-ade8ed14-1fe0-4dd8-a068-473cbde195a5/notebook/1-Glossary-5cd019a646c2409891b9175de9b87843?utm_source=share-modal&utm_medium=product-shared-content&utm_campaign=notebook&utm_content=ade8ed14-1fe0-4dd8-a068-473cbde195a5 
+
 
 The notebooks were developed for use in Deepnote and may require some adaptation to run in other IDEs or local Jupyter environments.
 
@@ -9,12 +14,12 @@ Repository Structure
 
 This repository contains two top-level folders:
 
-instructor-version/
+complete-version/
 
 participant-version/
 
 
-The participant folder contains the entire project, including notebooks, helper files, and image assets. The instructor folder contains the instructor version of the core notebooks— these are effectively the answer key.
+The participant folder contains the entire project, including notebooks, helper files, and image assets. The instructor folder contains the complete version of the core notebooks— these versions are effectively the answer key to the notebooks in the participant section.
 
 
 Notebook Order
