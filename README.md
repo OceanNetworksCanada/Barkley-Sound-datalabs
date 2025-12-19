@@ -1,7 +1,7 @@
 Barkley Sound Data Labs
 Overview
 
-This repository contains Jupyter notebooks and supporting files for the Barkley Sound Data Labs project. The materials are organized as a guided, notebook-based workflow focused on working with oceanographic and ecological data from Barkley Sound.
+This repository contains Jupyter notebooks and supporting files for the Barkley Sound Data Labs project. The materials are organized as a guided, notebook-based workflow focused on working with Ocean Networks Canada data from Barkley Sound.
 
 The notebooks were developed for use in Deepnote and may require some adaptation to run in other IDEs or local Jupyter environments.
 
