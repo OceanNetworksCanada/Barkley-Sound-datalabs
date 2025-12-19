@@ -9,9 +9,9 @@ Repository Structure
 
 This repository contains two top-level folders:
 
-participants/
+participant-version/
 
-instructors/
+instructor-version/
 
 Both folders follow the same structure and contain the same core notebooks, helper files, and image assets. The separation exists for organizational and instructional purposes only.
 
