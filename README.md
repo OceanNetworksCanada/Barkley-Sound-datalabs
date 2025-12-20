@@ -21,6 +21,7 @@ Repository Structure
 This repository contains the following top-level folder(s):
 
 participant-version/
+
 complete-notebooks/
 
 
