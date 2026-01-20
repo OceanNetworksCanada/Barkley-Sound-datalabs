@@ -1,5 +1,5 @@
-Barkley Sound Data Lab
-Overview
+# Barkley Sound Data Lab
+## Overview
 
 This repository contains Jupyter notebooks and supporting files for the Barkley Sound Data Lab project. The materials are organized as a guided, notebook-based workflow focused on working with Ocean Networks Canada data from Barkley Sound.
 
@@ -16,7 +16,7 @@ https://deepnote.com/workspace/ocean_networks_canada-d8a1a703-3320-4724-96bc-719
 Instructor:
 https://deepnote.com/workspace/Ocean-Networks-Canadas-Workspace-d8a1a703-3320-4724-96bc-7195228468db/project/BMSC-2025-Instructor-890ba78e-eed8-4349-8067-7ca4e958455f/notebook/3-Folger-Passage-2021-Instructor-f7a27f10abd141c597411ab60454cb1b?utm_source=share-modal&utm_medium=product-shared-content&utm_campaign=notebook&utm_content=890ba78e-eed8-4349-8067-7ca4e958455f
 
-Repository Structure
+## Repository Structure
 
 This repository contains the following top-level folder(s):
 
@@ -28,11 +28,11 @@ complete-notebooks/
 The participant folder contains the entire project, including notebooks (with uncomplete interactive sections), helper files, and image assets. The complete folder contains the complete versions of each notebook.
 
 
-Notebook Order
+## Notebook Order
 
 This project contains four notebooks, numbered and intended to be completed sequentially:
 
-Glossary.ipynb
+(1) Glossary.ipynb
 Reference material for terminology, variables, and concepts used throughout the project.
 
 (2) Plotting-Tutorial.ipynb
@@ -47,7 +47,7 @@ A case study focused on phytoplankton bloom dynamics in Barkley Sound.
 The notebooks are designed to be completed in order.
 
 
-Helper Files
+## Helper Files
 
 This project includes the following helper Python files, which are imported by the notebooks as needed:
 
@@ -60,7 +60,7 @@ summer_helper.py
 These files are not intended to be run directly.
 
 
-Image Assets
+## Image Assets
 
 Three notebooks include image blocks:
 
@@ -79,7 +79,7 @@ Each image directory includes an image_order.txt file that documents the intende
 Depending on how the repository is downloaded, opened, or moved between environments, images may not automatically render in the notebooks. If this occurs, images may need to be re-inserted into the notebook image cells. The image_order.txt files are provided to make it easy to restore the correct image order.
 
 
-Environment Notes
+## Environment Notes
 
 The notebooks are designed and tested in Deepnote.
 
